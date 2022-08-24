@@ -1,3 +1,5 @@
+node_modules: https://drive.google.com/file/d/1EpP_MA5aLm6KX22obelc5iTY5eDfGKpK/view?usp=sharing
+
 # React Intermediário - Digital Innovation One
 
 Este código foi produzido com o intuito de prover exemplos ao [curso da Digital Innovation One](https://web.digitalinnovation.one/course/desenvolvimento-de-aplicacoes-para-internet-com-reactjs/learning/c6a6c9e3-c419-4443-9191-b3bf851d1ce4).
